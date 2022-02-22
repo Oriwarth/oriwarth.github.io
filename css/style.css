@@ -1,6 +1,21 @@
+:root {
+	--genwidth: 850px ;
+	--navwidth: 175px ;
+	--fg: #ddd ;
+	--altfg: #ccc ;
+	--fgemph: white ;
+	--bg: #111 ;
+	--altbg: #333 ;
+	--emph: #333 ;
+	--bordercolor: #555 ;
+	--limish: #0e0 ;
+}
+
 body {
   background-color: #272727;
   padding: 10px;
+  font-family: monospace;
+  white-space: normal;
 }
 
 p {
