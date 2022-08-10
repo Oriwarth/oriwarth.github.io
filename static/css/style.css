@@ -19,7 +19,7 @@ body {
     display: inline-block;
 }
 
-.menu li { display: inline-block; padding: 10px;}
+.menu li { display: inline-block; padding: 4px;}
 .article-meta, .menu a {
   text-decoration: none;
   /* background: #eee; */
