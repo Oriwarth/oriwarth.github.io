@@ -1,0 +1,5 @@
+<img src="{{ .Get "src" }}"
+    {{- with .Get "mouse" }} title="{{.}}"{{ end -}}
+    {{- with .Get "scale" }} width="{{.}}" {{ end -}}
+    class="center-img"
+>

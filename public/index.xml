@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A minimal Hugo website</title>
+    <link>/</link>
+    <description>Recent content on A minimal Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Aug 2022 20:22:50 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Tue, 09 Aug 2022 20:11:03 -0600</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>A second home for my thoughts The first is always the shower</description>
+    </item>
+    
+    <item>
+      <title>On Personality Tests</title>
+      <link>/blog/on-personality-tests/</link>
+      <pubDate>Fri, 05 Aug 2022 16:51:20 -0600</pubDate>
+      
+      <guid>/blog/on-personality-tests/</guid>
+      <description>I took the personality test at understandmyself.com. This is neither an endorsement nor an indictment, just a reflection of what this tests have to offer. Regardless of what you think of the author of that particular test, I like him. I sent the website a letter as feedback containing my comments about my specific results, though here I want to focus more on personality tests in general.
+If you haven&amp;rsquo;t taken personality tests in the past, good.</description>
+    </item>
+    
+  </channel>
+</rss>

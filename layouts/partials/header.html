@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
+    {{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
+    {{ end -}}
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
+    {{ partial "head_custom.html" . }}
+  </head>
+
+  <body>
+
+    <img style='vertical-align:middle; display:inline-block;' src="/img/LogoDoubleMoon.png" width=40vw>
+    <p style="display:inline-block;">&nbsp;</p>
+    <nav style="display:inline-block;">
+        <ul class="menu">
+          {{ range .Site.Menus.main }}
+          <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+    </nav>
+    <hr/>
