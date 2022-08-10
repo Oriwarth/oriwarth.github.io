@@ -1,9 +1,0 @@
-baseURL = ''
-languageCode = 'en-us'
-title = 'Oriwarth'
-theme = 'hugo-xmin'
-
-[params]
-    description = "My blog"
-    footer = "&copy; [Oriwarth](https://oriwarth.github.io) {Year} | [Github](https://github.com/oriwarth) "
-
