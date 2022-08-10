@@ -1,4 +1,4 @@
-baseurl: "oriwarth.github.io"
+baseurl: "https://oriwarth.github.io"
 languageCode: "en-us"
 title: "Oriwarth"
 theme: "hugo-xmin"
