@@ -1,7 +1,6 @@
 :root {
   --blue: #1e90ff;
   --white: #ffffff;
-
   --colorBackground: #606060;
   --mediumTeal: #7FD0D3;
 }
@@ -20,7 +19,7 @@ body {
     display: inline-block;
 }
 
-.menu li { display: inline-block; }
+.menu li { display: inline-block; padding: 10px;}
 .article-meta, .menu a {
   text-decoration: none;
   /* background: #eee; */
@@ -34,7 +33,7 @@ body {
 /*footer a { text-decoration: none; }*/:
 
 hr {
-    border-style: solid;
+    /*border-style: solid;*/
     /* color: #ddd; */
     color: #BBEAEC;
 }
