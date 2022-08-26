@@ -14,10 +14,9 @@ draft: false
 * BATNA (Best alternative to negociated agreement) Aggregation
 * Free ideas (instead of tweets): i.e. There's almost no media based on colonial Mexico, blue ocean?
 * On the tourism of climbing mount Everest. Self-defined goals 
-* Comment on Veritasium's "The 4 things you need to be an expert" with Artificial intelligence 
 * On the economics of your wardrobe, or "why people don't steal your luggage"
-* Is bash my favorite programming language? Not the best, or my best. But the purpose of programming languages is to bridge the gap between humans and computers. And this can do both
 * Was I the most productive on elementary school? 
-
+* Absence of evidence vs evidence of absence: Loch Ness Monster and Cancer
+* Disecting the entropy/messy room analogy. What's really going on?
 
 {{<centerImg src="/img/vader_on_fleek.png" mouse="Vader on fleek" scale="200vw">}}
