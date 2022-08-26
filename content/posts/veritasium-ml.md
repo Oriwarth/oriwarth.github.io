@@ -52,3 +52,6 @@ The parallels in human and machine intelligence run deep, and it is still not cl
 
 Until next time,
 Oriwarth
+
+
+{{<centerImg src="/img/4_Knight.png" mouse="Knight 2" scale="200vw">}}
